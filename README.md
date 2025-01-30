@@ -26,8 +26,8 @@ This project demonstrates how to automate the deployment of a simple Node.js to-
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/DanielAzeez/Deployment-of-a-Web-Application-Using-Docker-and-Jenkins-on-AWS-EC2.git
-   cd Deployment-of-a-Web-Application-Using-Docker-and-Jenkins-on-AWS-EC2
+   git clone https://github.com/jeel-chheta/Automated-Deployment-of-a-Static-Website.git
+   cd Automated-Deployment-of-a-Static-Website
    ```
 
 2. **Install Node.js dependencies**:
