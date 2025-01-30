@@ -1,1 +1,0 @@
-# Automated-Deployment-of-a-Static-Website
